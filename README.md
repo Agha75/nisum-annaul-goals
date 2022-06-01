@@ -1,2 +1,11 @@
 # nisum-annaul-goals
-.Topics Covered
+
+**.Topics Covere**d
+
+-Inheritance
+
+-Polymorphism
+
+-Abstraction
+
+Encapsulation
